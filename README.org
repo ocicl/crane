@@ -1,0 +1,10 @@
+* crane
+
+An ORM for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/crane.git   |
+| commit  | 1a85295  |
+| systems | crane |
+|---------+-------------------------------------------|
+
